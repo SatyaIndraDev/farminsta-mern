@@ -1,0 +1,16 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .profile-view-edit-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .profile-edit {
+    margin-top: 20px;
+  }
+  
